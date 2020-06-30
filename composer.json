@@ -26,7 +26,7 @@
     "php": ">=7.2",
     "alecrabbit/php-console-colour": "^0.10",
     "alecrabbit/php-wcwidth": ">=0",
-    "symfony/console": "^4.3"
+    "symfony/console": "^5.1"
   },
   "require-dev": {
     "alecrabbit/php-helpers": "^0.8.1",
